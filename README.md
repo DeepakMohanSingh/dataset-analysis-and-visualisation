@@ -1,2 +1,12 @@
-# dataset-analysis-and-visualisation
-A Python programming practice to analyse and visualise "QS World Rankings 2023" dataset using matplotlib
+# Description
+A Python programming practice to analyse and visualise a dataset.
+
+# Dataset
+QS World University Rankings 2023
+https://www.topuniversities.com/world-university-rankings/2023
+
+# Type of app
+Console
+
+# Libraries used
+Matplotlib - A comprehensive library for creating static, animated, and interactive visualizations in Python.
